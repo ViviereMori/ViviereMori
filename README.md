@@ -8,7 +8,7 @@ Creative builder focused on tech, design, and innovation. Currently working on:
 
 ### 🚀 Projects
 [👉 Virtual-Try On BETA ](https://github.com/ViviereMori/fittem-showcase)  
-[👉 ROOTED Web Design ](https://github.com/ViviereMori/rooted-theme)  
+[👉 ROOTED Web Design ](https://github.com/ViviereMori/rooted)  
 
 ---
 
