@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Javi
+👋 Hi, I'm Javi
 
 Creative builder focused on tech, design, and innovation. Currently working on:
 
 - 🛠 **FITTEM** — a virtual try-on engine with frontend/backend/API integration
 - 🌱 **ROOTED** — custom Shopify theme built from scratch for a live brand
 - 🧪 Minimalist UI builds & scalable full-stack designs
-- 📚 Finished CompTIA **Security+** and **Network+** COURSES / Skilled in Cybersecurity and Network troubleshooting and Administration
-- Determined to learn more about AI engineering
+- ✅ Finished CompTIA **Security+** and **Network+** courses solid foundation in cybersecurity and networking
+- 🧠 Actively building AI-integrated pipelines — API chaining, dynamic prompt routing, and media output handling
 
+Let’s connect & create something dope.
 
-Let's connect & create something dope.
