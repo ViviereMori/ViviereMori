@@ -6,6 +6,7 @@ Creative builder focused on tech, design, and innovation. Currently working on:
 - 🌱 **ROOTED** — custom Shopify theme built from scratch for a live brand
 - 🧪 Minimalist UI builds & scalable full-stack designs
 - 📚 Finished CompTIA **Security+** and **Network+** COURSES / Skilled in Cybersecurity and Network troubleshooting and Administration
+- Determined to learn more about AI engineering
 
 
 Let's connect & create something dope.
