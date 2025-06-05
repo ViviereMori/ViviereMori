@@ -8,5 +8,5 @@ Creative builder focused on tech, design, and innovation. Currently working on:
 - ✅ Finished CompTIA **Security+** and **Network+** courses solid foundation in cybersecurity and networking
 - 🧠 Actively building AI-integrated pipelines — API chaining, dynamic prompt routing, and media output handling
 
-Let’s connect & create something dope.
+Let’s connect🖤
 
