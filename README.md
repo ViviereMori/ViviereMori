@@ -2,14 +2,10 @@
 
 Creative builder focused on tech, design, and innovation. Currently working on:
 
-- 🔧 **FITTEM** — a virtual try-on engine
-- 🛍 **ROOTED** — fully custom high-end dynamic website built on shopify
-- 📱 Minimalist UI experiments & full-stack app design
+- 🛠 **FITTEM** — a virtual try-on engine with frontend/backend/API integration
+- 🌱 **ROOTED** — custom Shopify theme built from scratch for a live brand
+- 🧪 Minimalist UI builds & scalable full-stack designs
+- 📚 Finished CompTIA **Security+** and **Network+** COURSES / Skilled in Cybersecurity and Network troubleshooting and Administration
 
-### 🚀 Projects
-[👉 Virtual-Try On BETA ](https://github.com/ViviereMori/fittem-showcase)  
-[👉 ROOTED Web Design ](https://github.com/ViviereMori/rooted)  
-
----
 
 Let's connect & create something dope.
