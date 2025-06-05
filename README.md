@@ -2,8 +2,8 @@
 
 Creative builder focused on tech, design, and innovation. Currently working on:
 
-- 🔧 **FITTEM** — a virtual try-on engine using 
-- 🛍 **ROOTED** — high-end Shopify theme customization project
+- 🔧 **FITTEM** — a virtual try-on
+- 🛍 **ROOTED** — fully custom high-end dynamic website built on shopify
 - 📱 Minimalist UI experiments & full-stack app design
 
 ### 🚀 Projects
