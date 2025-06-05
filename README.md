@@ -1,4 +1,4 @@
-👋 Hi, I'm Javi
+I'm Javi
 
 Creative builder focused on tech, design, and innovation. Currently working on:
 
