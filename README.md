@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Javi
 
-<!--
-**ViviereMori/ViviereMori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Creative builder focused on tech, design, and innovation. Currently working on:
 
-Here are some ideas to get you started:
+- 🔧 **FITTEM** — a virtual try-on engine using 
+- 🛍 **ROOTED** — high-end Shopify theme customization project
+- 📱 Minimalist UI experiments & full-stack app design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+[👉 Virtual-Try On BETA ](https://github.com/ViviereMori/fittem-showcase)  
+[👉 ROOTED Web Design ](https://github.com/ViviereMori/rooted-theme)  
+
+---
+
+Let's connect & create something dope.
